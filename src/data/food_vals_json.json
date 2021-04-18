@@ -1,0 +1,42 @@
+{
+    "Animal Feed": {
+        "min": 0,
+        "thresh_1": 1.6,
+        "thresh_2": 2.08,
+        "thresh_3": 2.34,
+        "thresh_4": 2.5,
+        "max": 3
+    },
+    "Farm": {
+        "min": 0,
+        "thresh_1": 1.46,
+        "thresh_2": 2.84,
+        "thresh_3": 10.28,
+        "thresh_4": 16.46,
+        "max": 40
+    },
+    "Processing": {
+        "min": 0,
+        "thresh_1": 0.11,
+        "thresh_2": 0.22,
+        "thresh_3": 0.52,
+        "thresh_4": 1.1,
+        "max": 1.5
+    },
+    "Transport": {
+        "min": 0,
+        "thresh_1": 0.12,
+        "thresh_2": 0.16,
+        "thresh_3": 0.3,
+        "thresh_4": 0.32,
+        "max": 0.5
+    },
+    "Packaging": {
+        "min": 0,
+        "thresh_1": 0.18,
+        "thresh_2": 0.2,
+        "thresh_3": 0.24,
+        "thresh_4": 0.28,
+        "max": 0.3
+    }
+}
